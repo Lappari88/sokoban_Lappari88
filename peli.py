@@ -19,6 +19,9 @@ class Sokoban:
 
         pygame.display.set_caption("Sokoban")
 
+
+        
+
         self.silmukka()
 
     def lataa_kuvat(self):
